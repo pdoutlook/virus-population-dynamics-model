@@ -1,1 +1,10 @@
-# virus-population-dynamics-model
+# virus-population-dynamics-model![vpdm_page-0010](https://user-images.githubusercontent.com/88903517/214485830-a4aa5a7b-178b-4dc2-bd40-104c750bec5d.jpg)
+![vpdm_page-0001](https://user-images.githubusercontent.com/88903517/214485836-65f7c645-9f73-4110-852b-52b8f6d057b5.jpg)
+![vpdm_page-0002](https://user-images.githubusercontent.com/88903517/214485839-dd1d7860-6286-4fc9-9b44-45475ade427c.jpg)
+![vpdm_page-0003](https://user-images.githubusercontent.com/88903517/214485847-711b5561-6aa2-4cb4-b8bf-e6860108bbd0.jpg)
+![vpdm_page-0004](https://user-images.githubusercontent.com/88903517/214485850-5997a22e-52e9-4c18-b69b-14062b38da05.jpg)
+![vpdm_page-0005](https://user-images.githubusercontent.com/88903517/214485853-e3500d93-8ffb-4287-85a4-7144ad0bea22.jpg)
+![vpdm_page-0006](https://user-images.githubusercontent.com/88903517/214485857-30fc4ba9-4b2a-4924-bfa6-4d3b11898779.jpg)
+![vpdm_page-0007](https://user-images.githubusercontent.com/88903517/214485858-7558a70e-41e1-4ab0-a409-3969d69e23aa.jpg)
+![vpdm_page-0008](https://user-images.githubusercontent.com/88903517/214485860-8d7b7853-aff1-475e-bff9-fdb4f3fa841a.jpg)
+![vpdm_page-0009](https://user-images.githubusercontent.com/88903517/214485863-e8450163-610a-476e-bcf7-0e4b5cc86013.jpg)
